@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616343253336",
+    "project_id": "rastremento-sarcopenia",
+    "storage_bucket": "rastremento-sarcopenia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616343253336:android:7d422de2dab47cd44f752d",
+        "android_client_info": {
+          "package_name": "com.example.sarcopenia_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616343253336-9j50rcn0dj2doeuhjg1ek8pv67ui3uh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarcopenia_project",
+            "certificate_hash": "4ac6e5a1f4eb33d9c2fca911a1d91c3038c37312"
+          }
+        },
+        {
+          "client_id": "616343253336-sjise4sgfmcd18qfd7b4ipjlo36gt5le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtptXmFz2JLC4pWcRuNe1tz3Kpx8YegMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616343253336-sjise4sgfmcd18qfd7b4ipjlo36gt5le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
